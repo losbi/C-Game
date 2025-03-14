@@ -1,4 +1,5 @@
 # 2D Platformer Game - Competition Version
+![Screenshot from 2025-03-14 22-45-34](https://github.com/user-attachments/assets/18b47e64-4f2e-4ddb-a06b-3a9defa48d3c)
 
 ![run-tests](../../workflows/run-tests/badge.svg)
 
@@ -68,3 +69,6 @@ make
 make run 
 
 or simply press the .exe file
+
+
+
